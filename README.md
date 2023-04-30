@@ -1,7 +1,7 @@
 # Loop- Frontend Developer
 
 ## Problem Statement
-The instructions and the problem statement are mentioned in the doc here [here](https://loopxyz.notion.site/Take-home-interview-Front-end-0c6af8e29f48489c88ea16788f96d0e4)
+The instructions and the problem statement are mentioned in the doc [here](https://loopxyz.notion.site/Take-home-interview-Front-end-0c6af8e29f48489c88ea16788f96d0e4)
 
 ## Solution
 
