@@ -1,0 +1,32 @@
+html,
+body {
+  height: 100%;
+}
+
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #f2f2f2;
+  height: 100%;
+  width: 200px;
+  padding: 20px;
+  box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+}
+
+.sidebar-container a {
+  display: block;
+  padding: 10px;
+  margin-bottom: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.sidebar-container a:hover {
+  background-color: #e0e0e0;
+}
+
+.sidebar-container .active {
+  background-color: #4caf50;
+  color: #fff;
+}

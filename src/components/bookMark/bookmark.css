@@ -1,0 +1,41 @@
+.bookmark-wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+  }
+  .sidebar {
+    flex: 1;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .bookmark-page {
+    flex: 2;
+    padding: 10px;
+    margin-left: 18rem
+  }
+  
+  .bookmark-restaurant {
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .bookmark-restaurant h2 {
+    margin: 0;
+  }
+  
+  .bookmark-button {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .bookmark-button:hover {
+    background-color: #cc0000;
+  }
+  
